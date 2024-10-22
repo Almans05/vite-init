@@ -1,0 +1,29 @@
+
+.texto-azul {
+    color: darkblue;
+}
+
+.tipos-segura {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.segura {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    color: darkred;
+}
+
+.tipos-segura-primera {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-style: italic;
+    color: darkred;
+}
+
+.texto-verde {
+    color: darkgreen;
+}
+
